@@ -62,3 +62,5 @@ docs/webpage_docs-*/
 *.out
 *.app
 /msvc14/.vs/log4cplus/v16
+/msvc14/.vs/log4cplus/FileContentIndex
+/msvc14/.vs/log4cplus/v17
